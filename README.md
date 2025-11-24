@@ -4,7 +4,7 @@ This mod template can be used as basis for creating your own Hades II mods and p
 
 Many mod-making guides and other knowledge can be found on the [Hades II Mod Wiki](https://sgg-modding.github.io/Hades2ModWiki/).
 
-## Prerequisites
+## Prerequisites lol
 
 - Basic git knowledge.
 - Basic Markdown knowledge.
